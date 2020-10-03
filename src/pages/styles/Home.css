@@ -1,0 +1,7 @@
+hr {
+    color: var(--primary-gray);
+}
+h3 {
+    color: #fff;
+    margin-bottom: .8em;
+}

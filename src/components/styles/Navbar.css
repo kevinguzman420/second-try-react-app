@@ -1,0 +1,80 @@
+*{
+    margin: 0; 
+    padding: 0;
+}
+ul li {
+    list-style: none;
+}
+
+/* NAVBAR */
+.navbar {
+    display: flex;
+    /* justify-content: space-between; */
+    margin-top: 2em;
+}
+.navbar-logo {
+    width: 5%;
+    height: 50px;
+}
+.navbar-logo i {
+    color: #ffcb3c;
+    font-size: 3em;
+}
+.navbar-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 95%;
+}
+.navbar-links-page,
+.navbar-links-account {
+    display: flex;
+}
+.navbar-links-account {
+    justify-content: end;
+}
+.navbar-links-page li,
+.navbar-links-account li {
+    margin: 0 2em;
+}
+.navbar-links-account li:nth-of-type(2) {
+    margin-right: 0;
+}
+.last-link {
+    margin-right: 0;
+}
+#link__sign-up {
+    color: #fff;
+}
+#link__sign-up:hover {
+    color: var(--second-gray);
+}
+#link__create-account {
+    color: rgb(201, 0, 0);
+}
+#link__create-account:hover {
+    color: var(--yellow);
+}
+.navbar-links-page li a,
+.navbar-links-account li a {
+    color: var(--primary-gray);
+    font-family: var(--font-body);
+    text-decoration: none;
+}
+.navbar-links-page li a:hover,
+.navbar-links-account li a:hover {
+    color: #fff;
+    transition: .2s;
+}
+
+/* NAVBAR SECOND */
+.navbar.second {
+    display: flex;
+    justify-content: space-between;
+}
+.navbar.second .navbar-links-page li:nth-of-type(1) {
+    margin-left: 0;
+}
+.navbar.second .navbar-links-account li:nth-of-type(3) {
+    margin-right: 0;
+}

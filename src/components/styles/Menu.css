@@ -1,0 +1,18 @@
+.menu {
+    margin-bottom: 4em;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.subMenu li {
+    margin: .5em 0;
+}
+.subMenu li a {
+    color: var(--primary-gray);
+    text-decoration: none;
+    font-size: .8em;
+    transition: .2s;
+}
+.subMenu li a:hover {
+    color: #fff;
+}

@@ -1,0 +1,62 @@
+.firstTarget {
+    grid-row: 1 / span 1;
+    grid-column: 3 / -1;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.firstTarget-title {
+    color: rgb(255, 81, 0);
+    font-family: var(--font-title);
+    font-size: 1.5em;
+    margin-bottom: .5em;
+}
+.firstTarget-subtitle {
+    color: rgb(255, 81, 0);
+    margin-bottom: 2em;
+    font-size: .8em;
+}
+.firstTarget-btn {
+    border: 1px solid rgb(255, 81, 0);
+    padding: .7em 2em;
+    background-color: transparent;
+    color: rgb(255, 81, 0);
+    transition: .3s;
+}
+.firstTarget-btn:hover {
+    border: 1px solid #000;
+    background-color: rgb(255, 81, 0);
+    color: #000;
+}
+.secondTarget {
+    grid-row: 2 / -1;
+    grid-column: 2 / span 1;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.secondTarget-title {
+    color: var(--yellow);
+    font-family: var(--font-title);
+    font-size: 1.5em;
+    margin-bottom: .5em;
+}
+.secondTarget-subtitle {
+    color: var(--yellow);
+    margin-bottom: 2em;
+    font-size: .8em;
+}
+.secondTarget-btn {
+    border: 1px solid var(--yellow);
+    padding: .7em 2em;
+    background-color: transparent;
+    color: var(--yellow);
+    transition: .3s;
+}
+.secondTarget-btn:hover {
+    border: 1px solid #000;
+    background-color: var(--yellow);
+    color: #000;
+}

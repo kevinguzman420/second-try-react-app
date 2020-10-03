@@ -1,0 +1,34 @@
+.courses_title {
+    color: #fff;
+    margin-top: 3em;
+    /* margin-bottom: 1em; */
+    letter-spacing: .1em;
+}
+.courses__subtitle {
+    color: var(--primary-gray);
+    margin: 1em 0;
+}
+.courses-detail {
+    display: flex;
+    justify-content: space-between;
+}
+.courses-detail a {
+    vertical-align: bottom;
+    color: #f00;
+    font-size: .7em;
+    font-weight: bold;
+    text-decoration: none;
+}
+.courses-detail a:hover {
+    text-decoration: underline;
+}
+.courses p {
+    width: 70%;
+    color: var(--second-gray);
+}
+
+.gearshop p {
+    width: 40%;
+    color: var(--second-gray);
+    margin-top: 1em;
+}

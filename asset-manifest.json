@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/second-try-react-app/static/css/main.8b9dfd8e.chunk.css",
-    "main.js": "/second-try-react-app/static/js/main.758c4362.chunk.js",
-    "main.js.map": "/second-try-react-app/static/js/main.758c4362.chunk.js.map",
-    "runtime-main.js": "/second-try-react-app/static/js/runtime-main.9b8367ff.js",
-    "runtime-main.js.map": "/second-try-react-app/static/js/runtime-main.9b8367ff.js.map",
-    "static/js/2.ec703da0.chunk.js": "/second-try-react-app/static/js/2.ec703da0.chunk.js",
-    "static/js/2.ec703da0.chunk.js.map": "/second-try-react-app/static/js/2.ec703da0.chunk.js.map",
-    "index.html": "/second-try-react-app/index.html",
-    "precache-manifest.70d43ee48228ec7b5c9cf76c9744f922.js": "/second-try-react-app/precache-manifest.70d43ee48228ec7b5c9cf76c9744f922.js",
-    "service-worker.js": "/second-try-react-app/service-worker.js",
-    "static/css/main.8b9dfd8e.chunk.css.map": "/second-try-react-app/static/css/main.8b9dfd8e.chunk.css.map",
-    "static/js/2.ec703da0.chunk.js.LICENSE.txt": "/second-try-react-app/static/js/2.ec703da0.chunk.js.LICENSE.txt",
-    "static/media/PexelsVideos.mp4": "/second-try-react-app/static/media/PexelsVideos.361b2b35.mp4",
-    "static/media/camera.jpg": "/second-try-react-app/static/media/camera.62233332.jpg",
-    "static/media/camera2.jpg": "/second-try-react-app/static/media/camera2.2480cce6.jpg",
-    "static/media/camera3.jpg": "/second-try-react-app/static/media/camera3.8b9d048b.jpg",
-    "static/media/Contact.css": "/second-try-react-app/static/media/paper-plane-solid.56611ebb.svg"
+    "main.css": "/static/css/main.35085826.chunk.css",
+    "main.js": "/static/js/main.79ee3648.chunk.js",
+    "main.js.map": "/static/js/main.79ee3648.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.451dc41f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.451dc41f.js.map",
+    "static/js/2.ec703da0.chunk.js": "/static/js/2.ec703da0.chunk.js",
+    "static/js/2.ec703da0.chunk.js.map": "/static/js/2.ec703da0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.09a1dbb9c72846e57c70c573d4fd36ab.js": "/precache-manifest.09a1dbb9c72846e57c70c573d4fd36ab.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.35085826.chunk.css.map": "/static/css/main.35085826.chunk.css.map",
+    "static/js/2.ec703da0.chunk.js.LICENSE.txt": "/static/js/2.ec703da0.chunk.js.LICENSE.txt",
+    "static/media/PexelsVideos.mp4": "/static/media/PexelsVideos.361b2b35.mp4",
+    "static/media/camera.jpg": "/static/media/camera.62233332.jpg",
+    "static/media/camera2.jpg": "/static/media/camera2.2480cce6.jpg",
+    "static/media/camera3.jpg": "/static/media/camera3.8b9d048b.jpg",
+    "static/media/Contact.css": "/static/media/paper-plane-solid.56611ebb.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b8367ff.js",
+    "static/js/runtime-main.451dc41f.js",
     "static/js/2.ec703da0.chunk.js",
-    "static/css/main.8b9dfd8e.chunk.css",
-    "static/js/main.758c4362.chunk.js"
+    "static/css/main.35085826.chunk.css",
+    "static/js/main.79ee3648.chunk.js"
   ]
 }

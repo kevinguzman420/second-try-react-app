@@ -6,8 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  background-color: #8f8f8f;
-  /* #1a1c20; */
+  background-color: #1a1c20;
 }
 :root {
   --yellow: #ffcb3c;
